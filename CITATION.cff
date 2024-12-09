@@ -1,9 +1,16 @@
-cff-version: 0.0.0
-message: "If you use this software, please cite it as below."
+cff-version:    1.0.0
+message:        "If you use this software, please cite it as below."
 authors:
+- family-names: "Macià"
+  given-names:  "Fabricio"
+  orcid:        "https://orcid.org/0000-0002-0221-2889"
+- family-names: "Meroño"
+  given-names:  "Cristóbal J."
+  orcid:        "https://orcid.org/0000-0001-6028-9027"
 - family-names: "Sánchez-Mendoza"
-  given-names: "Daniel"
-  orcid: "https://orcid.org/0000-0001-5816-564X"
-title: "Born_Calderon_3d_Radial"
-date-released: 2024-12-07
-url: "https://github.com/Dasame1007/Born_Calderon_3d_Radial"
+  given-names:  "Daniel"
+  orcid:        "https://orcid.org/0000-0001-5816-564X"
+title:          "Born_Calderon_3d_Radial"
+version:        1.0.0
+date-released:  2024-12-09
+url:            "https://github.com/Dasame1007/Born_Calderon_3d_Radial"
